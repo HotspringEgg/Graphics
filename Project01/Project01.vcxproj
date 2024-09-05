@@ -33,6 +33,7 @@
     <None Include="Shader\Item_vertshader.vert" />
     <None Include="Shader\Light_fragshader.frag" />
     <None Include="Shader\Light_vertshader.vert" />
+    <None Include="src.md" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
